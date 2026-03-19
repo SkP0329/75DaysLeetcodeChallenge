@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SkP0329/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/SkP0329/75DaysLeetcodeChallenge/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
